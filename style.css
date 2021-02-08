@@ -39,3 +39,7 @@ body{
     border-radius: 15px;
 }
 
+.modal-div{
+    background: #393e46;
+    opacity: 0.8;
+}
